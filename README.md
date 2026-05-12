@@ -10,23 +10,23 @@
 
 ## 👤 About Me
 
+```dart
 class ShadowMonarch {
   String name     = "Ayushman Srivastava";
   String role     = "Flutter Developer";
   String college  = "BBD University, Lucknow";
   String location = "India 🇮🇳";
   
-  List<String> skills = [
+  List skills = [
     "Flutter", "Dart", "REST APIs",
     "Firebase", "Mobile UI/UX"
   ];
-
-  List<String> projects = [
-    "Weather App 🌤️",
-    "ConnectNow 🔗",
-    "Portfolio Website 🌐"
-  ];
   
+  String status = "Open to opportunities 👀";
+}
+```
+
+---
   String status = "Open to opportunities 👀";
 }
 ---
