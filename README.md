@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving
+  &color=gradient&height=150&section=header
+  &text=Ayushman%20Srivastava&fontSize=50"/>
+</div>
 
-<!--
-**shadowmonarch077/shadowmonarch077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Ayushman Srivastava
+### 📱 Flutter Developer | Dart | Mobile Apps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑 About Me
+- 🔭 Currently building Flutter apps
+- 🎓 BCA Final Year @ BBD University, Lucknow
+- 📍 Based in Lucknow, India
+- 💬 Ask me about **Flutter, Dart, Mobile Dev**
+
+---
+
+### 🛠️ Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=shadowmonarch077&show_icons=true&theme=tokyonight)
