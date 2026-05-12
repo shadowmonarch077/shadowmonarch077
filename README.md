@@ -10,7 +10,6 @@
 
 ## 👤 About Me
 
-```dart
 class ShadowMonarch {
   String name     = "Ayushman Srivastava";
   String role     = "Flutter Developer";
@@ -21,11 +20,15 @@ class ShadowMonarch {
     "Flutter", "Dart", "REST APIs",
     "Firebase", "Mobile UI/UX"
   ];
+
+  List<String> projects = [
+    "Weather App 🌤️",
+    "ConnectNow 🔗",
+    "Portfolio Website 🌐"
+  ];
   
   String status = "Open to opportunities 👀";
 }
-```
-
 ---
 
 ## 🛠️ Tech Stack
@@ -58,10 +61,10 @@ class ShadowMonarch {
 ## 🚀 Projects
 
 | Project | Description | Tech |
-|--------|-------------|------|
+|---------|-------------|------|
 | 🌤️ [Weather App](https://github.com/shadowmonarch077/weather_app) | Real-time weather by city | Flutter, OpenWeatherMap API |
-
----
+| 🔗 [ConnectNow](https://github.com/shadowmonarch077/ConnectNow) | A Real Time Video Confrencing App | Flutter |
+| 🌐 [Portfolio Website](namamidecoration.com) | Personal portfolio | HTML/CSS or JS |
 
 ## 📬 Connect With Me
 
